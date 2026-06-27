@@ -38,12 +38,4 @@ I focus on performance, simplicity, and building software that feels smooth, mod
 
 ---
 
-## ⚡ Fun Facts
-- I build tools from scratch  
-- I prefer clean, minimal UI  
-- I game with an Xbox controller on PC  
-- I break things just to rebuild them cleaner  
-
----
-
 Innovating mobile and browser software engineering-ErchoBG
