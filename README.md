@@ -35,7 +35,7 @@ I focus on performance, simplicity, and building software that feels smooth, mod
 - GitHub: **github.com/Mr-Erco**  
 - YouTube: **@Offical-Mr-Erco**  
 - X (Twitter): **@OfficalMrErco**
-
+-Email: **OfficalErco@outlook.com**
 ---
 
 Innovating mobile and browser software engineering-ErchoBG
