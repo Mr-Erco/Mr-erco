@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Yo, I'm Mr Erco (ErchoBG)
 
-<!--
-**Mr-Erco/Mr-erco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer, builder, and creator of the **TerminalX ecosystem** — a clean, fast, minimal suite of tools for Android power users and developers.
 
-Here are some ideas to get you started:
+I focus on performance, simplicity, and building software that feels smooth, modern, and powerful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Building
+- **TerminalX** — modern Android terminal  
+- **TerminalX Launcher** — lightweight installer & ecosystem hub  
+- **TerminalX Tools** — small utilities & dev‑focused apps  
+- **Cool developer projects** across Android, web, and systems  
+
+---
+
+## 🧠 What I'm Learning
+- Android development (Kotlin + Jetpack Compose)  
+- TypeScript for web apps  
+- Java for Android + backend logic  
+- C for low‑level programming and systems  
+- UI/UX for minimal developer tools  
+
+---
+
+## 🛠️ Tech Stack
+- **Kotlin**, **Java**, **Jetpack Compose**, **Material 3**  
+- **TypeScript**, **JavaScript**, **Node.js**  
+- **C**, **Shell**, **Linux**, **Git**  
+- **Android Studio**, **ADB**, **VS Code**  
+
+---
+
+## 📫 Find Me Online
+- GitHub: **github.com/Mr-Erco**  
+- YouTube: **@Offical-Mr-Erco**  
+- X (Twitter): **@OfficalMrErco**
+
+---
+
+## ⚡ Fun Facts
+- I build tools from scratch  
+- I prefer clean, minimal UI  
+- I game with an Xbox controller on PC  
+- I break things just to rebuild them cleaner  
+
+---
+
+Innovating mobile and browser software engineering-ErchoBG
