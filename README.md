@@ -4,7 +4,7 @@ Developer, builder, and creator of the **TerminalX ecosystem** — a clean, fast
 
 I focus on performance, simplicity, and building software that feels smooth, modern, and powerful.
 
-Website : https://dev-profile.terminalx.cloud
+Personal Portfolio Website : https://dev-profile.terminalx.cloud
 
 ---
 
